@@ -7,3 +7,17 @@ Os alunos irão trabalhar de forma profissional, usando **GitHub** como ferramen
 
 Este documento explica **exatamente** como funciona o fluxo completo: 
 Requisito → Issue → Branch → PR → Merge → Atualização do Documento.
+
+
+# 🧭 1. Estrutura do Repositório
+```
+/docs
+   requisitos.md
+   casos-de-uso.md
+/design
+   uml/
+.github/
+   ISSUE_TEMPLATE/
+   PULL_REQUEST_TEMPLATE.md
+README.md
+```
