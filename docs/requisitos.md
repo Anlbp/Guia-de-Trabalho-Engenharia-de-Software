@@ -10,3 +10,10 @@ Sempre que forem criados ou revisados, o processo deve ser:
 3. Atualizar o arquivo `requisitos.md`.
 4. Abrir um *Pull Request* (PR).
 5. O PR fechará automaticamente a Issue usando `Closes #numero`.
+
+
+
+
+
+Requisito:
+Flutter
